@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74064f72.css",
-    "main.js": "/static/js/main.da29cc51.js",
+    "main.js": "/static/js/main.9c1928df.js",
     "static/media/Renter.gif": "/static/media/Renter.0258aa5ba47a7db62b88.gif",
     "static/media/SMS_System.gif": "/static/media/SMS_System.f0b8243f8672161fc296.gif",
     "static/media/coding-background.jpg": "/static/media/coding-background.3192f8b8cc2d7fd0bf62.jpg",
@@ -9,10 +9,10 @@
     "static/media/Digital_Photo_Manpreet_Singh.JPG": "/static/media/Digital_Photo_Manpreet_Singh.d3013ed1ef3b10a2ef2b.JPG",
     "index.html": "/index.html",
     "main.74064f72.css.map": "/static/css/main.74064f72.css.map",
-    "main.da29cc51.js.map": "/static/js/main.da29cc51.js.map"
+    "main.9c1928df.js.map": "/static/js/main.9c1928df.js.map"
   },
   "entrypoints": [
     "static/css/main.74064f72.css",
-    "static/js/main.da29cc51.js"
+    "static/js/main.9c1928df.js"
   ]
 }
