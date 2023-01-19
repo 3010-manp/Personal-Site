@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/manpreet-personal-site/static/css/main.ab07cec7.css",
-    "main.js": "/manpreet-personal-site/static/js/main.83d5e65c.js",
+    "main.js": "/manpreet-personal-site/static/js/main.a3daab47.js",
     "static/media/Renter.gif": "/manpreet-personal-site/static/media/Renter.0258aa5ba47a7db62b88.gif",
     "static/media/SMS_System.gif": "/manpreet-personal-site/static/media/SMS_System.f0b8243f8672161fc296.gif",
     "static/media/coding-background.jpg": "/manpreet-personal-site/static/media/coding-background.3192f8b8cc2d7fd0bf62.jpg",
@@ -9,10 +9,10 @@
     "static/media/Digital_Photo_Manpreet_Singh.JPG": "/manpreet-personal-site/static/media/Digital_Photo_Manpreet_Singh.d3013ed1ef3b10a2ef2b.JPG",
     "index.html": "/manpreet-personal-site/index.html",
     "main.ab07cec7.css.map": "/manpreet-personal-site/static/css/main.ab07cec7.css.map",
-    "main.83d5e65c.js.map": "/manpreet-personal-site/static/js/main.83d5e65c.js.map"
+    "main.a3daab47.js.map": "/manpreet-personal-site/static/js/main.a3daab47.js.map"
   },
   "entrypoints": [
     "static/css/main.ab07cec7.css",
-    "static/js/main.83d5e65c.js"
+    "static/js/main.a3daab47.js"
   ]
 }
