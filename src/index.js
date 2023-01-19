@@ -8,7 +8,7 @@ import { HashRouter } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 const { PUBLIC_URL } = process.env;
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={PUBLIC_URL}>
     <App />
   </BrowserRouter>
 );
