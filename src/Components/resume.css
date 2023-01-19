@@ -1,0 +1,164 @@
+.resume {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.resume-heading {
+    text-align: center;
+}
+
+.resume-heading h1 {
+    font-size: 2.5rem;
+    text-decoration: underline;
+}
+
+.resume-sub-headings a {
+    color: black;
+    font-weight: bold;
+}
+
+.resume-sub-headings li {
+    list-style: none;
+}
+
+.resume-sub-headings li a:hover{
+    color: #7B7D7D;
+}
+
+
+.resume-sub-headings ul {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+#education, #work, #awards,  #courses{
+    margin-left: 10%;
+    margin-right: 10%;
+    scroll-margin-top: 6rem;
+}
+
+#education hr, #work hr, #awards hr,  #courses hr{
+    border: 1px solid;
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#education h3, #work h3{
+    display: inline-block;
+}
+
+#education span, #work span{
+    float: right;
+}
+
+#education .degree, #work .title {
+    display:contents;
+}
+
+.education1 {
+    background-color: #D6EAF8;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+} 
+
+#work ul {
+    margin-left: 20px;
+}
+
+
+.education2 {
+    background-color: #FAE5D3;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+} 
+
+.work1, .work2{
+    background-color: #AEB6BF;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.awards-container {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.awards-container .a1 {
+    text-align: center;
+    max-width: 200px;
+}
+
+#awards {
+    margin-bottom: 20px;
+}
+
+
+.course-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 20px;
+    column-gap: 10px;
+}
+
+#courses {
+    margin-bottom: 40px;
+}
+
+
+.hcourse {
+    border-style: dashed;
+}
+
+.c1 {
+    text-align: center;
+}
+
+#references {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+@media screen and (max-width: 1040px) {
+    .course-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .resume-sub-headings ul {
+        flex-wrap: wrap;
+        row-gap: 15px;
+    }
+    
+}
+
+@media screen and (max-width: 740px) {
+    .course-container {
+        grid-template-columns: 1fr;
+    }
+    
+
+    .awards-container {
+        flex-direction: column;
+        gap: 40px; 
+    }
+
+    .awards-container .a1 {
+        margin-left: 15%;
+    }
+
+    #education, #work, #awards, #courses {
+        scroll-margin-top: 6rem;
+    }
+
+}
+
+

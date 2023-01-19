@@ -1,0 +1,154 @@
+
+.hero {
+    margin-top: 5%;
+    display:flex;
+    flex-direction: column;
+    min-height: 79vh;
+}
+
+.image {
+    flex: 1;
+    margin: 0 auto;
+}
+
+.image img{
+    border-radius: 50%;
+}
+
+.content {
+    flex:10%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.content h1 {
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+    font-size: 3rem;
+}
+
+.content span {
+    font-size: 1.5rem;
+}
+
+.content p {
+    color: #7E5109;
+    font-size: 1.2rem;
+    padding-top: 5rem;
+}
+
+.welcome {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.welcome h1 {
+    color:#2E4053 ;
+}
+
+.im-content {
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+}
+
+.image-size {
+    height: 500px;
+    width: 400px;
+}
+
+@media screen and (max-width: 640px) {
+    .hero{
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hero .welcome {
+        font-size: 1.5rem;
+        margin-bottom: -50px;
+    }
+
+    .im-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .im-content .content h1{
+        font-size: 2rem;
+    }
+
+    .content span {
+        font-size: 1.2rem;
+
+    }
+
+    .content p {
+        padding-top: 3rem;
+    }
+
+    .content {
+        margin-left: 0;
+    }
+
+    .image {
+        margin-top: 2%;
+        margin-bottom: 20px;
+    }
+
+    .image-size {
+        height: 400px;
+        width: 300px;
+    }
+}
+
+@media screen and (min-width: 1040px) and (max-width: 1200px)
+{
+    .hero .welcome {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (min-width: 640px) and (max-width: 1040px) {
+    .hero{
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hero .welcome {
+        font-size: 1.5rem;
+    }
+
+    .im-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .im-content .content h1{
+        font-size: 2rem;
+    }
+
+    .content span {
+        font-size: 1.2rem;
+
+    }
+
+    .content p {
+        padding-top: 3rem;
+    }
+
+    .content {
+        margin-left: 0;
+    }
+
+    .image {
+        margin-top: 2%;
+        margin-bottom: 20px;
+    }
+}
+
+
+

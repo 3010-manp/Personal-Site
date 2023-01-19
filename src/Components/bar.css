@@ -1,0 +1,22 @@
+.skill-box {
+    max-width: 80%;
+    margin-left:10%;
+    margin-bottom: 40px;
+    margin-top: -2%;
+}
+
+
+.skills {
+    color: black;
+}
+
+.skillbar .skillbar-percent {
+    color: #641E16 ;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.skillbar .skillbar-bar {
+    transition: none;
+}
+
