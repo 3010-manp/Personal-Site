@@ -19,7 +19,7 @@ const Footer = () => {
             <p>Copyright @ Manpreet Singh</p>
             <div className='icons'>
             <a target="_blank" href="https://github.com/3010-manp" ><AiFillGithub className='git' size={30} /></a>
-            <a target="_blank" href="https://ca.linkedin.com/" ><AiFillLinkedin className='git' size={30} /></a>
+            <a target="_blank" href="https://www.linkedin.com/in/manpreet-singh-89954210b/" ><AiFillLinkedin className='git' size={30} /></a>
             </div>
             </div>
             <div className='developerInfor'>
