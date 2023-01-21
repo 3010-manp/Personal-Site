@@ -49,19 +49,6 @@ const Resume = () => {
         <h1> Work Experience</h1>
         <hr />
         <div className='work1'>
-        <h3>Voronoi Health Analytics, Vancouver, BC</h3>
-        <span>May 2022 - Aug 2022</span>
-        <br />
-        <span className='title'><em>Software Engineer Intern </em></span> 
-        <br />
-        <br />
-        <ul>
-            <li>Designed and integrated various GUI-based projects using C++ and UI libraries such as QT, into the DAFS app, which acts as a tool for medical image processing and analysis</li>
-            <li>Designed Flag Configuration GUI window using internally implemented Chips Class by which users could add, remove, or modify custom flags assigned to various medical scans</li>
-            <li>Fixed bugs in various components of the app and wrote production-level code that is easy to scale, which reduced application running times by more than 20%</li>
-        </ul>
-        </div>
-        <div className='work1'>
         <h3>University of Calgary, Calgary, AB</h3>
         <span>May 2022 - Jun 2022</span>
         <br />
