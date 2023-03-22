@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/manpreet-personal-site/static/css/main.ab07cec7.css",
-    "main.js": "/manpreet-personal-site/static/js/main.9c8b8d3a.js",
-    "static/media/Renter.gif": "/manpreet-personal-site/static/media/Renter.0258aa5ba47a7db62b88.gif",
-    "static/media/SMS_System.gif": "/manpreet-personal-site/static/media/SMS_System.f0b8243f8672161fc296.gif",
-    "static/media/coding-background.jpg": "/manpreet-personal-site/static/media/coding-background.3192f8b8cc2d7fd0bf62.jpg",
-    "static/media/Library.gif": "/manpreet-personal-site/static/media/Library.53348cf9e870da7e2157.gif",
-    "static/media/Digital_Photo_Manpreet_Singh.JPG": "/manpreet-personal-site/static/media/Digital_Photo_Manpreet_Singh.d3013ed1ef3b10a2ef2b.JPG",
-    "index.html": "/manpreet-personal-site/index.html",
-    "main.ab07cec7.css.map": "/manpreet-personal-site/static/css/main.ab07cec7.css.map",
-    "main.9c8b8d3a.js.map": "/manpreet-personal-site/static/js/main.9c8b8d3a.js.map"
+    "main.css": "/Personal-Site/static/css/main.2a5fe17a.css",
+    "main.js": "/Personal-Site/static/js/main.858018b9.js",
+    "static/media/Renter.gif": "/Personal-Site/static/media/Renter.0258aa5ba47a7db62b88.gif",
+    "static/media/SMS_System.gif": "/Personal-Site/static/media/SMS_System.f0b8243f8672161fc296.gif",
+    "static/media/coding-background.jpg": "/Personal-Site/static/media/coding-background.3192f8b8cc2d7fd0bf62.jpg",
+    "static/media/Library.gif": "/Personal-Site/static/media/Library.53348cf9e870da7e2157.gif",
+    "static/media/Digital_Photo_Manpreet_Singh.JPG": "/Personal-Site/static/media/Digital_Photo_Manpreet_Singh.d3013ed1ef3b10a2ef2b.JPG",
+    "index.html": "/Personal-Site/index.html",
+    "main.2a5fe17a.css.map": "/Personal-Site/static/css/main.2a5fe17a.css.map",
+    "main.858018b9.js.map": "/Personal-Site/static/js/main.858018b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab07cec7.css",
-    "static/js/main.9c8b8d3a.js"
+    "static/css/main.2a5fe17a.css",
+    "static/js/main.858018b9.js"
   ]
 }
